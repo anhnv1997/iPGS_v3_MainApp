@@ -1,0 +1,169 @@
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.AssemblyInfoInputs.cache
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.AssemblyInfo.cs
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.csproj.CoreCompileInputs.cache
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\bin\Debug\net5.0-windows\iParking.exe
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\bin\Debug\net5.0-windows\iParking.deps.json
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\bin\Debug\net5.0-windows\iParking.runtimeconfig.json
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\bin\Debug\net5.0-windows\iParking.runtimeconfig.dev.json
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\bin\Debug\net5.0-windows\iParking.dll
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\bin\Debug\net5.0-windows\ref\iParking.dll
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\bin\Debug\net5.0-windows\iParking.pdb
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\bin\Debug\net5.0-windows\System.Data.OleDb.dll
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.dll
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\obj\Debug\net5.0-windows\ref\iParking.dll
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.pdb
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.genruntimeconfig.cache
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.Form1.resources
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.csproj.GenerateResource.cache
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.Properties.Resources.resources
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.UserControls.ucFloor.resources
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.UserControls.ucGroup.resources
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.UserControls.ucZone.resources
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.UserControls.ucMAP.resources
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.UserControls.ucMapDetail.resources
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.Forms.frmFloor.resources
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.Forms.frmSetting.resources
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.Forms.frmZoneGroup.resources
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.Forms.frmZone.resources
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.Forms.frmZCU.resources
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.UserControls.ucZCU.resources
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.Forms.frmMAP.resources
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.Forms.frmMapDetail.resources
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.ucZoneInMap.resources
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.csproj.AssemblyReference.cache
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\bin\Debug\net5.0-windows\MQTTnet.dll
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\bin\Debug\net5.0-windows\Kztek.AI.dll
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\bin\Debug\net5.0-windows\Kztek.AI.pdb
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.Forms.frmLED.resources
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.Forms.frmLedDetail.resources
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.Forms.frmOutputDetail.resources
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.Forms.frmOutputDevice.resources
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.UserControls.ucLed.resources
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.UserControls.ucOutput.resources
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\bin\Debug\net5.0-windows\Kztek.KZIO.dll
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\bin\Debug\net5.0-windows\Kztek.KZIO.pdb
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.csproj.CopyComplete
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.Forms.frmShowZoneDetail.resources
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\bin\Debug\net5.0-windows\Kztek.LedController.dll
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\bin\Debug\net5.0-windows\Kztek.LedController.pdb
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\bin\Debug\net5.0-windows\System.IO.Ports.dll
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\bin\Debug\net5.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\bin\Debug\net5.0-windows\runtimes\unix\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.Forms.frmVehicleType.resources
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.UserControls.ucVehicleType.resources
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\obj\Debug\net5.0-windows\staticwebassets\iParking.StaticWebAssets.Manifest.cache
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\obj\Debug\net5.0-windows\staticwebassets\iParking.StaticWebAssets.xml
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\obj\Debug\net5.0-windows\scopedcss\bundle\iParking.styles.css
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.RazorTargetAssemblyInfo.cache
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.UserControls.ucTMA.resources
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.Forms.frmTMA.resources
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.UserControls.ucSlotTable.resources
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\VIET ANH\Desktop\iParking_new\iParking\bin\Debug\net5.0-windows\TableDependency.SqlClient.dll
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\bin\Debug\net5.0-windows\iParking.exe
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\bin\Debug\net5.0-windows\iParking.deps.json
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\bin\Debug\net5.0-windows\iParking.runtimeconfig.json
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\bin\Debug\net5.0-windows\iParking.runtimeconfig.dev.json
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\bin\Debug\net5.0-windows\iParking.dll
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\bin\Debug\net5.0-windows\iParking.pdb
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\bin\Debug\net5.0-windows\TableDependency.SqlClient.dll
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\bin\Debug\net5.0-windows\System.Data.OleDb.dll
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\bin\Debug\net5.0-windows\System.IO.Ports.dll
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\bin\Debug\net5.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\bin\Debug\net5.0-windows\runtimes\unix\lib\netstandard2.0\System.IO.Ports.dll
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\bin\Debug\net5.0-windows\Kztek.KZIO.dll
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\bin\Debug\net5.0-windows\Kztek.LedController.dll
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\bin\Debug\net5.0-windows\Kztek.LedController.pdb
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\bin\Debug\net5.0-windows\Kztek.KZIO.pdb
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.csproj.AssemblyReference.cache
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.Form1.resources
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.Forms.frmFloor.resources
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.Forms.frmLED.resources
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.Forms.frmLedDetail.resources
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.Forms.frmMAP.resources
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.Forms.frmMapDetail.resources
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.Forms.frmOutputDetail.resources
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.Forms.frmOutputDevice.resources
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.Forms.frmSetting.resources
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.Forms.frmShowZoneDetail.resources
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.Forms.frmTMA.resources
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.Forms.frmVehicleType.resources
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.Forms.frmZCU.resources
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.Forms.frmZone.resources
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.Forms.frmZoneGroup.resources
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.Properties.Resources.resources
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.ucZoneInMap.resources
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.UserControls.ucFloor.resources
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.UserControls.ucGroup.resources
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.UserControls.ucLed.resources
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.UserControls.ucMAP.resources
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.UserControls.ucOutput.resources
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.UserControls.ucSlotTable.resources
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.UserControls.ucTMA.resources
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.UserControls.ucVehicleType.resources
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.UserControls.ucZCU.resources
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.UserControls.ucZone.resources
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.csproj.GenerateResource.cache
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.GeneratedMSBuildEditorConfig.editorconfig
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.AssemblyInfoInputs.cache
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.AssemblyInfo.cs
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.csproj.CoreCompileInputs.cache
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\staticwebassets\iParking.StaticWebAssets.Manifest.cache
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\scopedcss\bundle\iParking.styles.css
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.RazorTargetAssemblyInfo.cache
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.csproj.CopyComplete
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.dll
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\ref\iParking.dll
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.pdb
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.genruntimeconfig.cache
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\bin\Debug\net5.0-windows\ConnectionConfig.deps.json
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\bin\Debug\net5.0-windows\ConnectionConfig.runtimeconfig.json
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\bin\Debug\net5.0-windows\ConnectionConfig.runtimeconfig.dev.json
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\bin\Debug\net5.0-windows\ConnectionConfig.exe
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\bin\Debug\net5.0-windows\ConnectionConfig.dll
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\bin\Debug\net5.0-windows\ConnectionConfig.pdb
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.Forms.frmFindVehicle.resources
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.UserControls.ucPanigationSQL.resources
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.Forms.frmReport.resources
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.Forms.frmLoading.resources
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.UserControls.GeneralUC.resources
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.Forms.frmTestKZIO.resources
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\bin\Debug\net5.0-windows\M2Mqtt.Net.dll
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.Forms.frmVehicleZoneDetail.resources
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.Forms.frmEditVehicleZonePriority.resources
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\iParking.Forms.frmCardPrivilege.resources
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\bin\Debug\net5.0-windows\RestSharp.dll
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\bin\Debug\net5.0-windows\KztekObject.dll
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\bin\Debug\net5.0-windows\SocketHelper.dll
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\bin\Debug\net5.0-windows\KztekObject.pdb
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\bin\Debug\net5.0-windows\SocketHelper.pdb
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\bin\Debug\net5.0-windows\Interop.zkemkeeper.dll
+D:\2.KZTECH\5.DuAn\iParking_new\iParking_new\iParking\obj\Debug\net5.0-windows\refint\iParking.dll
